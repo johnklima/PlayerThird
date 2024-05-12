@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{26c44cda-85a4-4ccb-bfef-508af8fb4732}">
+		<property name="assetPath">
+			<value>Bluezone_BC0298_designed_water_impact_006.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.3000104166666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8f527ba8-e186-44bc-8cf5-fcd9e7981c93}</destination>
+		</relationship>
+	</object>
+</objects>
